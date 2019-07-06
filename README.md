@@ -7,3 +7,5 @@ During this you will be asked to copy the intro_to_postgres_setup.sql file into 
 The intro to postgres case study summary and cheet sheet will be used throughout the class and should follow along in the same order. 
 
 The sponsored_products.csv file will be utilized at the end of day 2 of the class and should be downloaded before class on day 2. 
+
+test
